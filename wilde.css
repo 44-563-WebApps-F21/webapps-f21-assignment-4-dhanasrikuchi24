@@ -1,38 +1,46 @@
- .speech{
-    font-family: 'Times New Roman', Times, serif;
+.speech{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color:rgb(20,40,30);
+  
+  font-weight: normal;
+}
+.stage-direction{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: black;
+  background-color: rgb(238, 144, 199);
+  display: inline;
+}
+.stage-direction:hover{
+  color: rgb(255, 255, 255);
+  background-color: rgb(15, 20, 88);
+}
+.name:hover{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(113, 28, 192);
+  font-size: 20px;
+  text-shadow: 2px 2px 5px rgb(47, 166, 221);
+}
+.LADYWINDERMERE{
+  color: rgb(37, 177, 72);
+  font-size: 20px;
+}
+.LORDDARLINGTON{
+  color: rgb(86, 15, 153);
+  font-size: 20px;
+}
+.LadyJedburgh{
+  color: rgb(148, 46, 46);
+  font-size: 20px;
+}
+.MRSERLYNNEHILTERN{
+  color: rgb(196, 31, 127);
+  font-size: 20px;
+}
+
+.LORDAUGUSTUS{
+    color: rgb(196, 119, 31);
     font-size: 20px;
-    color:rgb(20,40,30);
-    
-    font-weight: normal;
-  }
-  .stage-direction{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    color: black;
-    background-color: rgb(238, 144, 199);
-    display: inline;
-  }
-  .stage-direction:hover{
-    color: rgb(255, 255, 255);
-    background-color: rgb(15, 20, 88);
-  }
-  .name:hover{
-    font-family: 'Times New Roman', Times, serif;
-    color: rgb(113, 28, 192);
-    font-size: 20px;
-    text-shadow: 2px 2px 5px rgb(47, 166, 221);
-  }
-  .LADYWINDERMERE{
-    color: rgb(0, 255, 42);
-    font-size: 15px;
-  }
-  .PARKER{
-    color: rgb(185, 26, 87);
-    font-size: 15px;
-  }
-  .LORDDARLINGTON{
-    color: rgb(31, 158, 196);
-    font-size: 15px;
   }
   
-   
