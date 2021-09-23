@@ -38,9 +38,30 @@
   color: rgb(196, 31, 127);
   font-size: 20px;
 }
-
 .LORDAUGUSTUS{
     color: rgb(196, 119, 31);
     font-size: 20px;
   }
-  
+  table{
+    width: fit-content;
+    border: 4px double black;
+    text-align: left;
+    padding: 15px;
+}
+tr:nth-child(even){
+    background-color: #888b72;}
+td{
+    border: 1px solid rgb(70, 44, 44);
+}
+th{
+    border: 1px solid rgb(228, 167, 167);
+    color:red;
+}
+th,td {
+    border: 1px solid black;
+}
+tr:hover {
+    background-color: rgb(75, 72, 72);}
+    .wilde.css {
+      box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    } 
